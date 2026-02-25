@@ -1,0 +1,13 @@
+mockup-generator/
+│
+├── index.html
+├── style.css
+├── script.js
+├── /templates
+│     ├── street_front.png
+│     ├── street_back.png
+│     ├── studio_front.png
+│
+└── /masks
+      ├── front_area.json
+      ├── back_area.json
